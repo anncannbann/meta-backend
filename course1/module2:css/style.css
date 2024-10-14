@@ -3,6 +3,7 @@ h1 {
 }
 
 #header1 {
+  display: block;
   color: red;
   border-width: thick;
 }
